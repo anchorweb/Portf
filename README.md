@@ -10,7 +10,7 @@ Click the button to generate your daily inspirational quote.
 
 ### Coding languages used
 
-1. The skeleton of the website was created using HTML (ndex.html)
+1. The skeleton of the website was created using HTML (index.html)
 2. The style of the website was created using CSS (index.css)
 3. The behaviour of the website was created using Javascript (index.js), on the index.js you will see the variable quotes, this variable stores an array of inspiritational quotes.
 4. using the DOM and the click event, it is possible to generate the phrase when clicking. The Math.random will randomly select the quote from the array.
